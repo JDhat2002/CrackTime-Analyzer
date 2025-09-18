@@ -1,6 +1,6 @@
 # 🔐 CrackTime Analyzer
 
-[![Tests](https://github.com/<your-username>/<your-repo>/actions/workflows/python-tests.yml/badge.svg)](https://github.com/<your-username>/<your-repo>/actions/workflows/python-tests.yml)
+[![Tests](https://github.com/JDhad2002/CrackTime-Analyzer/actions/workflows/python-tests.yml/badge.svg)](https://github.com/JDhad2002/CrackTime-Analyzer/actions/workflows/python-tests.yml)
 
 A **password strength auditing tool** that estimates password entropy and crack time.  
 It works both from the **command line** and via a **Streamlit web GUI**, and can export results to **JSON/CSV reports**.  
