@@ -17,14 +17,6 @@ It works both from the **command line** and via a **Streamlit web GUI**, and can
 - Export analysis reports to **JSON/CSV**.
 - Includes automated tests (Pytest + GitHub Actions CI).
 
----
-
-## 📸 Screenshots
-### Weak password
-![Weak Password](screenshots/weak_password.png)
-
-### Strong password
-![Strong Password](screenshots/strong_password.png)
 
 ---
 
